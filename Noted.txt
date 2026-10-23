@@ -1,3 +1,8 @@
-        Want to Learn
+-git config --global user.name "Devit Yen"
+-git config --global user.email fteen4851@gmail.com
+-git remote add origin https://github.com/Vit5503/Want-to-learn.git
+ 
+
+                Want to Learn
 1. 
 2.
